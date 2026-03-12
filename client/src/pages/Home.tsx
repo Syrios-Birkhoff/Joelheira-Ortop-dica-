@@ -418,6 +418,7 @@ export default function Home() {
                 >
                   <a href="https://app.coinzz.com.br/checkout/1-unidade-vguqb-745">COMPRAR AGORA</a>
                 </Button>
+                <p style={{ fontSize: '11px', color: '#666', textAlign: 'center', marginTop: '5px' }}>⚠️ Fique tranquilo: Seu CPF será solicitado na próxima etapa apenas para a emissão da Nota Fiscal. Nenhuma cobrança será feita agora.</p>
               </div>
               <div className="mt-6 flex items-center justify-center gap-4 text-[10px] text-slate-400 font-bold uppercase tracking-wider">
                 <div className="flex items-center gap-1"><Truck className="w-3 h-3" /> Frete Grátis</div>
@@ -451,6 +452,7 @@ export default function Home() {
                 >
                   <a href="https://app.coinzz.com.br/checkout/2-unidades-ucdqy-746">COMPRAR AGORA</a>
                 </Button>
+                <p style={{ fontSize: '11px', color: '#666', textAlign: 'center', marginTop: '5px' }}>⚠️ Fique tranquilo: Seu CPF será solicitado na próxima etapa apenas para a emissão da Nota Fiscal. Nenhuma cobrança será feita agora.</p>
               </div>
               <div className="mt-6 flex items-center justify-center gap-4 text-[10px] text-slate-400 font-bold uppercase tracking-wider">
                 <div className="flex items-center gap-1"><Truck className="w-3 h-3" /> Frete Grátis</div>
@@ -481,6 +483,7 @@ export default function Home() {
                 >
                   <a href="https://app.coinzz.com.br/checkout/3-unidades-msqig-747">COMPRAR AGORA</a>
                 </Button>
+                <p style={{ fontSize: '11px', color: '#666', textAlign: 'center', marginTop: '5px' }}>⚠️ Fique tranquilo: Seu CPF será solicitado na próxima etapa apenas para a emissão da Nota Fiscal. Nenhuma cobrança será feita agora.</p>
               </div>
               <div className="mt-6 flex items-center justify-center gap-4 text-[10px] text-slate-400 font-bold uppercase tracking-wider">
                 <div className="flex items-center gap-1"><Truck className="w-3 h-3" /> Frete Grátis</div>
